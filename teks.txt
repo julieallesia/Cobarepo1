@@ -1,2 +1,3 @@
 master14:07 tes
 master15:53 tes // commit ke -2
+slave : line ditambahkan oleh branch1
