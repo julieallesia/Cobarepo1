@@ -3,3 +3,4 @@ master15:53 tes // commit ke -2
 slave : line ditambahkan oleh branch1
 master: line ditambahakan oleh upstream(julieallesia) branch master
 slave: line ini untuk simulasi keterlambatan oleh origin (fbrplr)
+master:line ditambahkan oleh upstream(julieallesia) untuk pengujian keterlambatan oleh pihak origin
